@@ -9,7 +9,7 @@ btn.addEventListener("click", function() {
     }
 });
 
-//cursor
+//cursor gif
 const gifContainer = document.querySelector('.gif-container');
 const gifImage = gifContainer.querySelector('img');
 

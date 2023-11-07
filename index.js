@@ -17,7 +17,7 @@
 // }
 // }
 // fetchData();
-//This works
+//This works. The code above was used to find if object in console. 
 
 async function fetchData() {
     const currentDate = new Date();

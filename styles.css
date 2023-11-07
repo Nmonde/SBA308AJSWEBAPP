@@ -64,12 +64,15 @@ color: white;
 .venue {
     margin-top: 10px;
 }
+/* tried to display cursor as the basebal gif */
+body {
+    cursor: url("SpinBaseball.gif"), auto;
+}
 
 .gif-container {
     width: 30px; 
     height: 20px;
     overflow: hidden;
-    cursor: url("SpinBaseball.gif"),auto;
 }
 
 .gif-container img {
